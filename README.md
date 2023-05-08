@@ -1,4 +1,4 @@
-# Albo
+## Introduction
 
 Albo is a multipurpose Discord bot written in Python, with over 30 commands and growing. This is a personal project, made to replace all of the bots a server needs with only one. It is in it's early development stage and will progress slowly since I am the only developer.
 
