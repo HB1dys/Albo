@@ -16,16 +16,18 @@ To get started with Albo-1.0, follow these steps:
 
 Albo-1.0 currently has over 30 commands, including:
 
-- `!help`: Displays the list of available commands.
-- `!ping`: Pings the bot to check if it's online.
-- `!mute`: Mutes a user in the server.
-- `!unmute`: Unmutes a previously muted user.
+- `/help`: Displays the list of available commands.
+- `/prefix`: Sets a custom prefix of your choice.
+- `/log`: Configures the log channel of the server, where it logs every single mod command, used by the server staff.
+- `-ai`: Sends a given question to ChatGPT and answers directly in the chat.
 
-Check the source code or run `!help` to see a full list of commands.
+and much more.
+
+Check the source code or run `/help` to see an interactive menu with a full list of commands.
 
 ## Contributing
 
-As a personal project, contributions are not currently accepted. However, feedback and suggestions are always welcome.
+As a personal project, contributions are not currently accepted. However, feedback, suggestions and help are always welcome.
 
 ## License
 
