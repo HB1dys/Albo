@@ -23,7 +23,7 @@ Albo-1.0 currently has over 30 commands, including:
 
 and much more.
 
-Check the source code or run `/help` to see an interactive menu with a full list of commands.
+Run `/help` to see an interactive menu with the full lists of commands.
 
 ## Contributing
 
