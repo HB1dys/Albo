@@ -35,4 +35,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-If you have any questions or issues with the project, feel free to contact me at [my email](bulbotssup@gmail.com).
+If you have any questions or issues with the project, feel free to contact me at [bulbotssup@gmail.com].
