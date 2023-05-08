@@ -1,6 +1,6 @@
 # Albo-1.0
 
-Albo-1.0 is a multipurpose Discord bot written in Python, with over 30 commands and growing. This is a personal project, made to replace all of the Discord bots a server needs with only one. It is in its early development stage and will progress slowly since I am the only developer.
+Albo is a multipurpose Discord bot written in Python, with over 30 commands and growing. This is a personal project, made to replace all of the bots a server needs with only one. It is in it's early development stage and will progress slowly since I am the only developer.
 
 ## Getting Started
 
