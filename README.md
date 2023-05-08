@@ -4,7 +4,7 @@ Albo is a multipurpose Discord bot written in Python, with over 30 commands and 
 
 <!--## Getting Started
 
-To get started with Albo-1.0, follow these steps:
+To get started with Albo, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Install the required dependencies by running `pip install -r requirements.txt`.
@@ -14,7 +14,7 @@ To get started with Albo-1.0, follow these steps:
 
 ## Commands
 
-Albo-1.0 currently has over 30 commands, including:
+Albo currently has over 30 commands, including:
 
 - `/help`: Displays the list of available commands.
 - `/prefix`: Sets a custom prefix of your choice.
